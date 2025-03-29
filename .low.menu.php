@@ -1,0 +1,25 @@
+<?
+$aMenuLinks = Array(
+	Array(
+		"Оптовикам", 
+		"/optovikam/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Розница", 
+		"/roznitsa/", 
+		Array(), 
+		Array(), 
+		"" 
+	),
+	Array(
+		"Контакты", 
+		"/contacts/", 
+		Array(), 
+		Array(), 
+		"" 
+	)
+);
+?>
