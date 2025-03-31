@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://pariga.ru/catalog/main/wak/sitemap.xml
